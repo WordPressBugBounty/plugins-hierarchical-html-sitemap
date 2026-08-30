@@ -1,7 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Hierarchical HTML Sitemap\n"
-"POT-Creation-Date: 2018-06-16 06:58+0300\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-30 15:30+0200\n"
 "PO-Revision-Date: 2018-06-16 06:59+0300\n"
 "Last-Translator: Alexandra Vovk <avovkdesign@gmail.com>\n"
 "Language-Team: WP Puzzle <wppuzzle@gmail.com>\n"
@@ -11,17 +12,17 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.0.8\n"
 "X-Poedit-Basepath: .\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Poedit-KeywordsList: __;_e;_x;_\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: ..\n"
 
-#: ../hierarchical-sitemap.php:14
+#: hierarchical-sitemap.php:27
 msgid "Hierarchical HTML Sitemap"
 msgstr "Ієрархічна HTML карта сайту"
 
-#: ../hierarchical-sitemap.php:15
+#: hierarchical-sitemap.php:28
 msgid ""
 "Generates hierarchical HTML sitemap wich displays hierarchically sorted "
 "categories with posts links. You need add <code>[htmlmap]</code> shortcode "
@@ -33,6 +34,10 @@ msgstr ""
 "будь-якій сторінці шорткодом <code>[htmlmap]</code>. Плагін працює швидко, "
 "має неймовірно простий PHP код, не підключає ніяких зовнішніх CSS/JS фалів."
 
-#: ../hierarchical-sitemap.php:223
+#: hierarchical-sitemap.php:192
+msgid "Back to categories"
+msgstr "Повернутися до категорій"
+
+#: hierarchical-sitemap.php:277
 msgid "All Pages"
 msgstr "Всі сторінки"
